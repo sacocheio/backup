@@ -1,6 +1,6 @@
 # Backup Podcast Saco Cheio
 
-Entendendo as motivações e em respeito à decisão do Petry, acesso restrito apenas àqueles que mandarem podcasts ausentes da lista.
+Entendendo as motivações e em respeito a decisão do Petry, acesso restrito apenas àqueles que mandarem podcasts.
 
 Mande podcasts:
 
@@ -88,7 +88,7 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟥|20 06 2014|
 |🟥|27 06 2014|
 |🟥|04 07 2014|
-|🟥|11 07 2014|
+|🟩|11 07 2014|
 |🟥|18 07 2014|
 |🟥|25 07 2014|
 |🟥|25 07 2014|
@@ -200,7 +200,7 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟥|Terça no Trânsito #19|
 |🟥|Terça no Trânsito #20|
 |🟥|12 08 2016|
-|🟥|Entrevista #3 - Antes e Depois da Federal|
+|🟩|Entrevista #3 - Antes e Depois da Federal|
 |🟥|Terça no Trânsito #21|
 |🟥|Terça no Trânsito #22|
 |🟥|02 09 2016|
@@ -251,11 +251,11 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟩|Entrevista #8 - Caio Bottura|
 |🟩|28 04 2017|
 |🟥|05 05 2017|
-|🟥|12 05 2017|
-|🟥|19 05 2017|
+|🟩|12 05 2017|
+|🟩|19 05 2017|
 |🟥|Entrevista #9 - Luca Mendes|
-|🟥|26 05 2017|
-|🟥|02 06 2017|
+|🟩|26 05 2017|
+|🟩|02 06 2017|
 |🟥|09 06 2017|
 |🟥|16 06 2017|
 |🟥|23 06 2017|
@@ -265,22 +265,22 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟥|14 07 2017|
 |🟥|21 07 2017|
 |🟥|Birlcast #4|
-|🟥|28 07 2017|
+|🟩|28 07 2017|
 |🟥|04 08 2017|
 |🟥|11 08 2017|
 |🟥|18 08 2017|
 |🟩|25 08 2017|
-|🟥|01 09 2017|
+|🟩|01 09 2017|
 |🟩|07 09 2017|
-|🟥|15 09 2017|
-|🟥|Podcast no quarto do hotel em Santa Cruz com Maurício Meirelles|
-|🟥|22 09 2017|
+|🟩|15 09 2017|
+|🟩|Podcast no quarto do hotel em Santa Cruz com Maurício Meirelles|
+|🟩|22 09 2017|
 |🟩|29 09 2017|
 |🟩|06 10 2017|
 |🟩|13 10 2017|
 |🟥|20 10 2017|
 |🟥|27 10 2017|
-|🟥|03 11 2017|
+|🟩|03 11 2017|
 |🟥|10 11 2017|
 |🟩|17 11 2017|
 |🟥|24 11 2017|
@@ -288,12 +288,12 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟩|08 12 2017|
 |🟥|15 12 2017|
 |🟥|22 12 2017|
-|🟥|29 12 2017|
+|🟩|29 12 2017|
 |🟥|05 01 2018|
 |🟥|12 01 2018|
-|🟥|19 01 2018|
+|🟩|19 01 2018|
 |🟥|26 01 2018|
-|🟥|02 02 2018|
+|🟩|02 02 2018|
 |🟥|10 02 2018|
 |🟥|16 02 2018|
 |🟥|23 02 2018|
@@ -301,7 +301,7 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟥|02 03 2018|
 |🟥|08 03 2018|
 |🟥|16 03 2018|
-|🟥|23 03 2018|
+|🟩|23 03 2018|
 |🟥|30 03 2018|
 |🟥|06 04 2018|
 |🟩|13 04 2018|
