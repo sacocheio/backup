@@ -197,7 +197,7 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟥|27 01 2017|
 |🟥|Sábado Especial #3|
 |🟥|03 02 2017|
-|🟥|Birlcast #1|
+|🟩|Birlcast #1|
 |🟥|10 02 2017|
 |🟩|17 02 2017|
 |🟩|24 02 2017|
