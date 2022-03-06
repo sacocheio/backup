@@ -1,6 +1,8 @@
 # Backup Podcast Saco Cheio
 
-Entendendo as motivações e em respeito à decisão do Petry, acesso restrito apenas àqueles que mandarem podcasts ausentes da lista.
+~~Entendendo as motivações e em respeito a decisão do Petry, acesso restrito apenas àqueles que mandarem podcasts.~~
+
+Devido a acontecimentos recentes, o acesso será mais criterioso.
 
 Mande podcasts:
 

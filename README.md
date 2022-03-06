@@ -1,6 +1,8 @@
 # Backup Podcast Saco Cheio
 
-Entendendo as motivações e em respeito a decisão do Petry, acesso restrito apenas àqueles que mandarem podcasts.
+~~Entendendo as motivações e em respeito a decisão do Petry, acesso restrito apenas àqueles que mandarem podcasts.~~
+
+Devido a acontecimentos recentes, o acesso será mais criterioso.
 
 Mande podcasts:
 
@@ -65,8 +67,7 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟩|11 04 2014|
 |🟩|22 04 14|
 |🟩|25 04 2014|
-|🟥|25 04 2014|
-|🟥|02 05 2014|
+|🟩|02 05 2014|
 |🟩|09 05 2014|
 |🟩|16 05 2014|
 |🟩|23 05 2014|
@@ -124,7 +125,6 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟩|22 05 2015|
 |🟩|05 06 2015|
 |🟩|12 06 2015|
-|🟥|12 06 2015|
 |🟥|Sábado Especial #2 Junho de 2015|
 |🟩|19 06 2015|
 |🟩|26 06 2015|
@@ -201,6 +201,7 @@ Telegram: [@botomoko](https://t.me/botomoko)
 |🟥|10 02 2017|
 |🟩|17 02 2017|
 |🟩|24 02 2017|
+|🟩|03 03 2017|
 |🟩|04 03 2017|
 |🟩|10 03 2017|
 |🟩|Birlcast #2|
